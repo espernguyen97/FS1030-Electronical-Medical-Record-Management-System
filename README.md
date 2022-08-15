@@ -14,4 +14,5 @@ Database Repo: https://github.com/espernguyen97/FS1030-Group-Project-Electronica
 
 Demo: 
 
-For Caregiver:  https://youtu.be/dm1P4WCM9so
+For Caregiver users:  https://youtu.be/dm1P4WCM9so
+For Admin users: 
