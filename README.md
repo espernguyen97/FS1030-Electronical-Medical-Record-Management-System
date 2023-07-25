@@ -16,4 +16,3 @@ Live Demo of the web app:
 
 For Caregiver users:  https://youtu.be/dm1P4WCM9so
 
-For Admin users: 
