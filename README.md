@@ -14,7 +14,9 @@ a. Design an EMR system for the care providers such as a family doctor where the
 <br>
 b. Design a super admin interface in EMR system where they would be able to search/create/read/update/delete Patients and Care Providers details.
 
+
 <br>
+
 
 
 Electronical Medical Record Management System Repo:
