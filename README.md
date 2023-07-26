@@ -6,8 +6,9 @@ About EMR (Electronic Medical Record) Management System :
 <br>
 
 EMR is the collection of patient’s health records which is electronically stored in a digital format.
-<br>
 
+
+<br>
 
 
 Goals:
@@ -22,6 +23,7 @@ b. Design a super admin interface in EMR system where they would be able to sear
 Electronical Medical Record Management System Repo:
 
 <br>
+
 Front End Repo: https://github.com/espernguyen97/FS1030-Group-Project-Electronical-Medical-Record-Management-System-Frontend
 
 Back End Repo: https://github.com/espernguyen97/FS1030-Group-Project-Electronical-Medical-Record-Management-System-Backend
