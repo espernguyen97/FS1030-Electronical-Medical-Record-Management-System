@@ -4,6 +4,7 @@ This Project is A Main Assignment of Database Design and Principles subject in F
 
 About EMR (Electronic Medical Record) Management System :
 <br>
+
 EMR is the collection of patient’s health records which is electronically stored in a digital format.
 <br>
 
@@ -20,8 +21,7 @@ b. Design a super admin interface in EMR system where they would be able to sear
 
 
 Electronical Medical Record Management System Repo:
-
-
+<br>
 
 Front End Repo: https://github.com/espernguyen97/FS1030-Group-Project-Electronical-Medical-Record-Management-System-Frontend
 
@@ -32,6 +32,7 @@ Database Repo: https://github.com/espernguyen97/FS1030-Group-Project-Electronica
 <br>
 
 Live Demo of the web app: 
+<br>
 
 For Caregiver users:  https://youtu.be/dm1P4WCM9so
 
