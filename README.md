@@ -8,6 +8,7 @@ EMR is the collection of patient’s health records which is electronically stor
 <br>
 
 Goals:
+<br>
 a. Design an EMR system for the care providers such as a family doctor where they can login, search for patient using patient’s Health Card Number, view and update patient details, write notes on patient details page, see the revision history for the patient record.
 <br>
 b. Design a super admin interface in EMR system where they would be able to search/create/read/update/delete Patients and Care Providers details.
