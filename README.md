@@ -8,6 +8,7 @@ About EMR (Electronic Medical Record) Management System :
 EMR is the collection of patient’s health records which is electronically stored in a digital format.
 <br>
 
+
 Goals:
 <br>
 
@@ -18,7 +19,6 @@ b. Design a super admin interface in EMR system where they would be able to sear
 
 <br>
 <br>
-
 Electronical Medical Record Management System Repo:
 
 <br>
